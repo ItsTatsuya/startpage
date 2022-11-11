@@ -1,15 +1,15 @@
 :root {
-    --color-bg: #282828;
-    --color-fg: #EADBB2;
+    --color-bg: #00000;
+    --color-fg: #ffffff;
     --color-link: #8F9191;
-    --color-link-visited: #668F8B;
-    --color-link-hover: #FA7921 ;
+    --color-link-visited: #585858;
+    --color-link-hover: #016cab ;
 }
 
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  font-family: "Poppins";
   height: 100%;
   width: 100%;
   margin: 0;
